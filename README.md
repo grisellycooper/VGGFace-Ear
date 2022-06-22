@@ -6,8 +6,8 @@ Annotations are saved in CSV files, there is one file per set. The train set gat
 
 Annotations are as follows: 
 
-1.  folder 	    \t string 	Class name given by the VGGFace dataset
-2.  file_img 	  \t string 	Image or sample name given by the VGGFace datase
+1.  folder 	    &emsp string 	Class name given by the VGGFace dataset
+2.  file_img 	  &emsp string 	Image or sample name given by the VGGFace datase
 3.  num_object 	int 	  Order number of ear detected in the image using the Mask-RCNN
 4.  score 	    float 	Detection score given by the Mask-RCNN
 5.  y 		      int 	  Y Upper-left value of the bounding box given by the Mask-RCNN
