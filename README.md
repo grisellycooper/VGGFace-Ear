@@ -25,3 +25,22 @@ Annotations are as follows:
 
 To download the annotations, please check the [Release Agreement](https://docs.google.com/document/d/1bkIcBDEIUh2I14i5uck2jiembiUQqRoh/edit?usp=sharing&ouid=105859654314927776258&rtpof=true&sd=true)
 
+
+## Citation
+Please use this bibtex to cite this work:
+```
+@Article{vggfaceear_dataset_2022,
+AUTHOR = {Ramos-Cooper, Solange and Gomez-Nieto, Erick and Camara-Chavez, Guillermo},
+TITLE = {VGGFace-Ear: An Extended Dataset for Unconstrained Ear Recognition},
+JOURNAL = {Sensors},
+VOLUME = {22},
+YEAR = {2022},
+NUMBER = {5},
+ARTICLE-NUMBER = {1752},
+URL = {https://www.mdpi.com/1424-8220/22/5/1752},
+PubMedID = {35270896},
+ISSN = {1424-8220},
+DOI = {10.3390/s22051752}
+}
+
+```
